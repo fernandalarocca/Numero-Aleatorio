@@ -17,6 +17,6 @@ Esse projeto foi desenvolvido à pedido do professor da disciplina Programação
 
 Dicas:
 
-Utilize o Angular CLI para gerar automaticamente os componentes e serviços, utilizando comandos como "ng generate component NomeDoComponente" e "ng generate service NomeDoServico".
-Lembre-se de importar e fornecer os serviços nos módulos onde eles são utilizados.
+Utilize o Angular CLI para gerar automaticamente os componentes e serviços, utilizando comandos como "ng generate component NomeDoComponente" e "ng generate service NomeDoServico".<br>
+Lembre-se de importar e fornecer os serviços nos módulos onde eles são utilizados.<br>
 Use a interpolação "{{ variavel }}" para exibir o número aleatório no template.
